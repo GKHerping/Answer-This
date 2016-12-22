@@ -1,6 +1,6 @@
 # Welcome to Answer This Github Support Page
 
-If you have any questions or need support please contact us at MountainValleyGames@gmail.com
+If you have any questions or need support please contact us at <MountainValleyGames@gmail.com>
 
 ### If you contact us about support:
 Write **SUPPORT** in the _subject field_
